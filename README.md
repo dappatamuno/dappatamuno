@@ -9,7 +9,7 @@
 
 ### 💬 About Me
 
-I’m **Tamuno-opubo Dappa**, an AI/ML Engineer and NLP specialist passionate about building open-source AI agents, language-driven applications, and end-to-end deployable projects for real-world impact.
+I’m **Tamuno-opubo Dappa**, an AI/ML Engineer and NLP specialist passionate about building AI agents, language-driven applications, and end-to-end deployable projects for real-world impact.
 
 🎓 MSc. in Management of Information Technology (Best Graduating MSc Student in University)  
 🔍 Focused on **LLMs, embeddings, RAG, AI agents, and intelligent automation**  
