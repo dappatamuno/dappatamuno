@@ -7,9 +7,9 @@
 
 ---
 
-### 💬 About Me
+### About Me
 
-I’m **Tamuno-opubo Dappa**, an AI/ML Engineer and NLP specialist passionate about building AI agents, language-driven applications, and end-to-end deployable projects for real-world impact.
+I am **Tamuno-opubo Dappa**, an AI/ML Engineer and NLP specialist passionate about building AI agents, language-driven applications, and end-to-end deployable projects for real-world impact.
 
 🎓 MSc. in Management of Information Technology (Best Graduating MSc Student in University)  
 🔍 Focused on **LLMs, embeddings, RAG, AI agents, and intelligent automation**  
@@ -17,7 +17,7 @@ I’m **Tamuno-opubo Dappa**, an AI/ML Engineer and NLP specialist passionate ab
 
 ---
 
-### 🧠 My Expertise
+### My Expertise
 
 - 📝 Natural Language Processing (Text Classification, Summarization, QA)
 - 🗃️ Vector Search & RAG using FAISS, ChromaDB
@@ -29,34 +29,34 @@ I’m **Tamuno-opubo Dappa**, an AI/ML Engineer and NLP specialist passionate ab
 
 ---
 
-### 🚀 Featured AI Projects
+### Featured AI Projects
 
 🔹 **PDF Chatbot Agent**  
 → Upload any PDF, ask questions, get contextual answers via RAG  
-🛠️ FAISS · Sentence Transformers · Streamlit
+FAISS · Sentence Transformers · Streamlit
 
 🔹 **News Aggregator + Summarizer**  
 → Scrapes news, summarizes with T5, and ranks results with semantic search  
-🛠️ BART · YAKE · Semantic Indexing
+ BART · YAKE · Semantic Indexing
 
 🔹 **Voice-Based Therapy Assistant (Coming Soon)**  
 → Uses Whisper for speech recognition + open LLM for mental health dialog  
-🛠️ Whisper · LLaMA · Flutter
+ Whisper · LLaMA · Flutter
 
 🔹 **Grant Matching + Proposal AI**  
 → Recommends funding opportunities, generates drafts, and learns from past submissions  
-🛠️ Embeddings · GPT-like LLMs · Vector Filtering
+ Embeddings · GPT-like LLMs · Vector Filtering
 
 ---
 
-### 📬 Work With Me
+### Work With Me
 
 - 💼 [Hire Me](mailto:dappatamunoopubo@gmail.com?subject=AI%20Collaboration)
 - 🤝 [Work With Me](mailto:dappatamunoopubo@gmail.com?subject=Let's%20Build%20AI%20Together)
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="https://github.com/dappatamuno" target="_blank">
@@ -69,7 +69,7 @@ I’m **Tamuno-opubo Dappa**, an AI/ML Engineer and NLP specialist passionate ab
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=hugging-face&logoColor=black)
@@ -82,7 +82,7 @@ I’m **Tamuno-opubo Dappa**, an AI/ML Engineer and NLP specialist passionate ab
 
 ---
 
-### 🏆 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dappatamuno&show_icons=true&theme=radical" />
@@ -91,7 +91,7 @@ I’m **Tamuno-opubo Dappa**, an AI/ML Engineer and NLP specialist passionate ab
 
 ---
 
-### ✨ GitHub Trophies
+### GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dappatamuno&theme=algolia&no-bg=true&no-frame=true" />
@@ -99,7 +99,7 @@ I’m **Tamuno-opubo Dappa**, an AI/ML Engineer and NLP specialist passionate ab
 
 ---
 
-### 🚧 What I’m Working On
+### What I’m Working On
 
 - 🧱 AI agents for grant writing, therapy, and resume review
 - 🗺️ Open-source semantic search tools
@@ -108,7 +108,7 @@ I’m **Tamuno-opubo Dappa**, an AI/ML Engineer and NLP specialist passionate ab
 
 ---
 
-### 💡 Quote I Live By:
+### Quote I Live By:
 > "Build for impact, not just performance."
 
 ---
